@@ -1,0 +1,28 @@
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 156px;
+    height: 32px
+}
+
+.access-button {
+    background: #DDE9F0;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #115d8c;
+    width: 174px;
+    height: 48px;
+    border-color: none;
+    border-style: none;
+    margin-left: 10px;
+}
+
+.access-button:hover{
+    filter: brightness(85%);
+    transition: 600ms;
+
+}

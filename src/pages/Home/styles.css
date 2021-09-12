@@ -1,0 +1,37 @@
+.home-container{
+    margin: 24px 150px;
+}
+
+.left-container{
+    width: 50%;
+    margin-top: 5em;
+}
+
+.home-title{
+    font-size: 80px !important;
+    font-weight: 700;
+    color: #123952;
+    width: 340px;
+    line-height: 74px;
+}
+
+.home-description{
+    font-size: 20px;
+    line-height: 30px;
+    color: #617480;
+    display: inline-block;
+    width: 330px;
+    margin-top: 40px;
+}
+
+.search-places {
+    background: #F25D27;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #FFFFFF;
+    width: 329px;
+    height: 72px;
+    border-color: none;
+    border-style: none;
+    margin-top: 50px;
+}
